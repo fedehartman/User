@@ -1,12 +1,11 @@
 <snippet>
 	<content><![CDATA[
-/*--| 
-------------------------------------------------------------------------------------- |--*/
+background-color: #8b21a6;
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cc2</tabTrigger>
+	<tabTrigger>5</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.css</scope> -->
+	<!-- <scope>source.python</scope> -->
 
 </snippet>
