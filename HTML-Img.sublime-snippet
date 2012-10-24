@@ -1,12 +1,10 @@
 <snippet>
 	<content><![CDATA[
--webkit-border-radius: 3px;
-   -moz-border-radius: 3px;
-        border-radius: 3px;
+<img src="img/.jpg" width="" height="">
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>co</tabTrigger>
+	<tabTrigger>img</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 

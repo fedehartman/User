@@ -1,2 +1,8 @@
 [
+
+	{ "keys": ["ctrl+d"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["f1"], "command": "close_tag" },
+	{ "keys": ["f2"], "command": "find_under_expand" }
+
 ]
