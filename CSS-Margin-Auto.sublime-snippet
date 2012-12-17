@@ -4,7 +4,7 @@ margin: 0px auto 0px auto;
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>auto</tabTrigger>
+	<tabTrigger>ma</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 

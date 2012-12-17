@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<img src="img/.jpg" width="" height="">
+background-color: rgba(0, 0, 0, 0.65);
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>img</tabTrigger>
+	<tabTrigger>6</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<!-- <scope>source.css</scope> -->
 
 </snippet>

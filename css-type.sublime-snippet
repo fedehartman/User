@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-font: normal 1.2em/1.5em "Trebuchet MS", Arial, Helvetica, sans-serif;
-color: #0d0d0d;
+font: normal 1.2em/1.5em Arial, Helvetica, sans-serif;
+color: #999999;
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
