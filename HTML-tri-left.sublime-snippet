@@ -1,14 +1,16 @@
 <snippet>
 	<content><![CDATA[
-
-
-		<!--| 
-		======================================================================== |-->
+width: 0px;
+height: 0px;
+margin: 0px 0px 0px 0px;
+border-top: 10px solid transparent;
+border-bottom: 10px solid transparent; 
+border-left: 10px solid #fff; 
 
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>c3</tabTrigger>
+	<tabTrigger>tri</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 
