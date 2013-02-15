@@ -12,7 +12,7 @@ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, 
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bd</tabTrigger>
+	<tabTrigger>ba</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.css</scope> -->
 

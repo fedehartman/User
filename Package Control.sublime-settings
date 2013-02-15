@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Git",
+		"Package Control",
+		"Placeholders",
+		"SublimeLinter"
+	]
+}
