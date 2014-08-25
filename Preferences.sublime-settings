@@ -1,8 +1,15 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage"
-	]
+		"Vintage",
+		"jQuery"
+	],
+	"margin": 2,
+	"rulers": 80,
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "false"
 }

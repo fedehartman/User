@@ -2,9 +2,15 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"Git",
+		"Git Conflict Resolver",
+		"jQuery",
+		"LiveStyle",
 		"Package Control",
 		"Placeholders",
+		"Sass",
+		"SideBarEnhancements",
 		"TidyHTML5"
 	]
 }

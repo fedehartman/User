@@ -1,10 +1,16 @@
 <snippet>
 	<content><![CDATA[
-background: url(../../img/front/sprite.png) no-repeat 0px 0px;
+content: "\f0e0";
+font-size: 1em;
+font-weight: normal;
+font-family: 'aw';
+margin: 0px 0px 0px 0px;
+display: inline-block;
+vertical-align: text-top;
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ba</tabTrigger>
+	<tabTrigger>io</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.css</scope> -->
 
